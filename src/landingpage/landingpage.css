@@ -1,0 +1,36 @@
+.landing-page {
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-image: url('https://assets-global.website-files.com/5ad4b5ac3265e94b4f4625ea/61fbdc2f6c7cfd5cd939c373_Fashion-eCommerce_91b215accebb37c995d0915e4f3d093f_2000.png');
+    background-size: cover;
+    color: black;
+    text-align: center;
+    padding: 25rem;
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .featured-products {
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+  }
